@@ -1,8 +1,7 @@
 
 /*
  * Nicholas, Malcolm, Sarah
- * May 6 2019
- * ICS 3U1
+ * February 6, 2020
  * Smartphone Advisor Application enables users to easily find a phone based on their specified requirements. The user is first asked eight questions 
  * regarding their personal preference of smartphone characteristics and next asked of the importance of each characteristic previously stated. Then are
  * they given three smartphones to choose from and a direct link to purchase it. The main class "SmartphoneAdvisorApplication" creates the smartphone array
